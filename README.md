@@ -180,14 +180,8 @@ Each Braille pin features a **mechanical latch** that:
 ```
 TAP-Box/
 │
-├── 3D_Models/
-│   ├── plotter_frame.stl
-│   ├── x_axis_carriage.stl
-│   ├── y_axis_carriage.stl
-│   ├── plotter_head.stl
-│   ├── braille_pin_grid.stl
-│   ├── latching_mechanism.stl
-│   └── assembly_guide.md
+├── 3D-Models/
+│   └── TAP-Box.stl.stl
 │
 ├── Arduino_Programs/
 │   ├── x_axis_test/
