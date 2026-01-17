@@ -109,7 +109,7 @@ Our approach directly addresses the persistent cost bottleneck: **most existing 
 - **Improved durability** through simplified mechanical design
 - **Affordable access** for schools and learners who have long been priced out of Braille technology
 
-![Core Idea](Images/mechanism_diagrams/core_idea.png)
+![Core Idea](Images/image_6.jpeg)
 *Introduction of the core idea: XY plotter with Z-axis pin triggering*
 
 ---
