@@ -323,11 +323,11 @@ TAP-Box/
 │   └── wifi_communication/
 │
 ├── Images/
-│   ├── prototype_v1/
-│   ├── assembly_steps/
-│   ├── mechanism_diagrams/
-│   ├── testing_photos/
-│   └── cad_renders/
+│   ├── image_1.jpeg/
+│   ├── image_2.jpeg/
+│   ├── illustration.jpeg/
+│   ├── image_3.jpeg/
+│   └── image_4.jpeg/
 │
 ├── Documentation/
 │   ├── assembly_instructions.md
@@ -442,19 +442,19 @@ TAP-Box/
 
 ### Prototype Build
 
-![Prototype Overview](Images/prototype_v1/overview.jpg)
+![Prototype Overview](Images/image_1.jpeg)
 *TAP-Box prototype - complete assembly (27cm × 27cm × 7cm)*
 
-![XY Gantry](Images/prototype_v1/xy_gantry.jpg)
+![XY Gantry](Images/image_2.jpeg)
 *XY gantry system with stepper motors*
 
-![Z-Axis Actuator](Images/prototype_v1/z_axis_detail.jpg)
+![Z-Axis Actuator](Images/image_3.jpeg)
 *Z-axis linear actuator and trigger head*
 
-![Pin Grid](Images/prototype_v1/pin_grid.jpg)
+![Pin Grid](Images/image_4.jpeg)
 *18×18 Braille pin grid with latching mechanism*
 
-![Electronics](Images/prototype_v1/electronics.jpg)
+![Electronics](Images/circuit diagram.jpeg)
 *Arduino Uno with CNC Shield and A4988 drivers*
 
 ### Assembly Process
