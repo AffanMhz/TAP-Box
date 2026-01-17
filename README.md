@@ -328,7 +328,10 @@ TAP-Box/
 │   ├── image_2.jpeg/
 │   ├── illustration.jpeg/
 │   ├── image_3.jpeg/
-│   └── image_4.jpeg/
+│   ├── image_4.jpeg/
+│   ├── image_5.jpeg/
+│   ├── image_6.jpeg/
+│   └── circuit_diagram.jpeg/
 │
 ├── Documentation/
 │   ├── assembly_instructions.md
