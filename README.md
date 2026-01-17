@@ -774,14 +774,6 @@ For questions, collaboration opportunities, or feedback:
 
 ---
 
-⭐ **Star this repository if you believe in inclusive education!**
-
-🔗 **Share to help us reach schools, NGOs, and accessibility advocates**
-
-💬 **Join the discussion in Issues to contribute ideas**
-
----
-
 *Built with ❤️ by Team ctrl+WIN*
 
 </div>
