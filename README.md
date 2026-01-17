@@ -240,10 +240,10 @@ The TAP-Box employs a coordinate-based positioning system:
 | **Power Supply** | 12V, 5A DC |
 | **Homing** | Mechanical limit switches (X–Y) |
 
-![CAD Model](Images/prototype_v1/cad_model.png)
+![CAD Model](Images/image_1.jpeg)
 *Complete CAD model of TAP-Box*
 
-![Circuit Diagram](Images/mechanism_diagrams/circuit_diagram.png)
+![Circuit Diagram](Images/circuit diagram.jpeg)
 *Hardware and software circuitry*
 
 ---
