@@ -294,7 +294,6 @@ The system is designed as a **browser-based teaching platform** that allows inst
    - Minimal latency
    - Reliable wireless operation
 
-**GitHub Repository:** [https://github.com/AffanMhz/TAP-Box.git](https://github.com/AffanMhz/TAP-Box.git)
 
 ---
 
