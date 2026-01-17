@@ -243,8 +243,8 @@ The TAP-Box employs a coordinate-based positioning system:
 ![CAD Model](Images/image_1.jpeg)
 *Complete CAD model of TAP-Box*
 
-![Circuit Diagram](Images/circuit_diagram.jpeg)
 
+![Circuit Diagram](Images/circuit_diagram.jpeg)
 *Hardware and software circuitry*
 
 ---
