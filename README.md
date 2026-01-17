@@ -301,7 +301,7 @@ The system is designed as a **browser-based teaching platform** that allows inst
 ```
 TAP-Box/
 │
-├── 3D-Models/
+├── 3D_Models/
 │   └── TAP-Box.stl
 │
 ├── Arduino_Programs/
